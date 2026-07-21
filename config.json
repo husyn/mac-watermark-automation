@@ -1,0 +1,30 @@
+{
+  "incoming_folder": "Incoming",
+  "output_folder": "Watermarked",
+  "originals_folder": "Originals",
+  "failed_folder": "Failed",
+  "mode": "auto",
+  "logo_file": "watermark.png",
+  "text": "YOUR WATERMARK",
+  "position": "bottom-right",
+  "opacity": 0.55,
+  "margin_percent": 0.025,
+  "logo_width_percent": 0.2,
+  "text_size_percent": 0.045,
+  "text_color": [
+    255,
+    255,
+    255
+  ],
+  "text_stroke_color": [
+    0,
+    0,
+    0
+  ],
+  "text_stroke_width_percent": 0.003,
+  "output_suffix": "_watermarked",
+  "jpeg_quality": 92,
+  "webp_quality": 92,
+  "poll_seconds": 2,
+  "overwrite_output": true
+}
